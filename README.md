@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🧑🏽‍💻 I am the maintainer of [Cython](https://cython.org/), [lxml](https://lxml.de/) and a few other Python data processing tools that you can find below.
+- 🤝 YOU can **support my work** [on Cython](https://cython.readthedocs.io/en/latest/src/donating.html) and [on lxml](https://lxml.de/index.html#support-the-project), or [my work in general](https://github.com/sponsors/scoder).
+- 🤔 You can contact me at gh@behnel.de
+- 😄 My pronouns are **he/him**
+- 🗣️ I speak **Deutsch**, **English**, **Français**
+
 <!--
 **scoder/scoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
