@@ -1,7 +1,7 @@
 ### Hi there, I'm Stefan 👋
 
 - 🧑🏽‍💻 I am the maintainer of [Cython](https://cython.org/), [lxml](https://lxml.de/) and a few other Python data processing tools that you can find below.
-- 🤝 YOU can **support my work** [on Cython](https://cython.readthedocs.io/en/latest/src/donating.html) and [on lxml](https://lxml.de/index.html#support-the-project), or [my work in general](https://github.com/sponsors/scoder).
+- 🤝 With a donation, **YOU can help me live the life that you think I deserve** for the work that I do [on Cython](https://cython.readthedocs.io/en/latest/src/donating.html) and [on lxml](https://lxml.de/index.html#support-the-project), or [my other projects](https://github.com/sponsors/scoder).
 - 🤔 You can contact me at gh@behnel.de
 - 😄 My pronouns are **he/him**
 - 🗣️ I speak **Deutsch**, **English**, **Français**
